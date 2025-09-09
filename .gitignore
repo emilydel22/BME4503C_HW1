@@ -1,0 +1,15 @@
+# MATLAB autosaves
+*.asv
+*.m~
+*.autosave
+*.bak
+
+# Simulink build/cache
+slprj/
+simulinkcache/
+codegen/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
